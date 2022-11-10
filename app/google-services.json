@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064823350085",
+    "project_id": "astroplan-67353",
+    "storage_bucket": "astroplan-67353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064823350085:android:a1790d9846d48587f7542c",
+        "android_client_info": {
+          "package_name": "com.astroplanapp.erthyj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064823350085-5ljbjvusfll6irc95u34ho7q3rren073.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBblNkpvyjP3wBuRlERJOV2rEYXxjqc7C0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064823350085-5ljbjvusfll6irc95u34ho7q3rren073.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
